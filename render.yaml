@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: grocery-compare-live
+    runtime: docker
+    plan: starter
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
