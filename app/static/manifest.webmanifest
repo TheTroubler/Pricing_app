@@ -1,0 +1,10 @@
+{
+  "name":"Моя корзина — сравнение цен",
+  "short_name":"Корзина",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#f7f5f0",
+  "theme_color":"#283c49",
+  "lang":"ru",
+  "icons":[]
+}
